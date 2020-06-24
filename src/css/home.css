@@ -59,7 +59,7 @@ body.home {
 }
 @media screen and (min-width: 40.063em) {
 	.home-content header {
-		background: var(--color-cloudflow-blue) url(../img/cloudflow-icon-square-lockup-reverse-fade.svg) no-repeat center center;
+		background: var(--color-cloudflow-blue) url(../img/cloudstate-icon-square-lockup-reverse.svg) no-repeat center center;
 		background-size: 960px;
 		height: 350px;
 	}
