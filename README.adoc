@@ -1,5 +1,5 @@
 = Cloudflow Default UI
-// Settings:
+// Settings: 
 :experimental:
 :hide-uri-scheme:
 
