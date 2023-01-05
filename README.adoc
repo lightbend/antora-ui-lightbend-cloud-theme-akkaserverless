@@ -1,9 +1,11 @@
-= Cloudflow Default UI
+= Akka Serverless Default UI
 // Settings:
 :experimental:
 :hide-uri-scheme:
 
-image:https://travis-ci.com/lightbend/antora-ui-lightbend-cloud-theme.svg?branch=master["Build Status", link="https://travis-ci.com/lightbend/antora-ui-lightbend-cloud-theme"]
+## The cloudflow.io theme lives in https://github.com/lightbend/antora-ui-lightbend-cloud-theme
+
+
 
 This project is a customized Antora UI theme that is used for both the Cloudflow static website https://cloudflow.io/[cloudflow.io] and the Cloudflow open source documentation https://cloudflow.io/docs/current/index.html[cloudflow.io/docs/current/index.html].
 
